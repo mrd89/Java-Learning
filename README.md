@@ -3,6 +3,7 @@
 I am taking a few courses from Coursera in Java
 
 Concentration 1: https://www.coursera.org/specializations/object-oriented-programming#courses
+
 Concentration 2: https://www.coursera.org/specializations/java-object-oriented
 
 There is overlap in the courses and each course is listed as it's own folder. 
