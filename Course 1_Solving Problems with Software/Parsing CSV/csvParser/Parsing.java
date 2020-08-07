@@ -61,14 +61,14 @@ public class Parsing {
     }
     
     public void tests(){
-        /*
+        ///*
         FileResource fr = new FileResource();
         CSVParser parser = fr.getCSVParser();
-        String country = "notacountry";
+        String country = "Nauru";
         String output = getCountryInfo(parser,country);
         
         System.out.println(output);
-        */
+       // */
        // passed all tests forcountry info
        
        /*
@@ -81,14 +81,14 @@ public class Parsing {
         */
         // passed all tests for exportertwoproducts
         
-        
+        /*
         FileResource fr = new FileResource();
         CSVParser parser = fr.getCSVParser();
-        String export ="gold";
+        String export ="sugar";
         
         System.out.println("There are " + getNumberOfExporters(parser,export) + " exporters of " + export);
         
-        
+        */
     
     
     }
